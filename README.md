@@ -1,3 +1,4 @@
+### este repo é uma ferramenta simples para adquirir conteudo de pdf para por de contexto em modelos seja para treinamento seja para github spaces que foi meu caso
 # Processo recomendado para colocar PDF no contexto do modelo
 
 1. Se o PDF contiver texto pesquisável:
