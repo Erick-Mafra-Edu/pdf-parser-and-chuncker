@@ -12,10 +12,6 @@
    - Se for gerar embeddings, use cada chunk como um documento (JSONL).
    - Inclua metadados (página, título, seção) quando possível.
    - Limpe caracteres de controle e repita limpeza de espaços.
-5. Se quiser, eu posso:
-   - Converter se você subir o PDF aqui;
-   - Gerar prompts para uso direto com os chunks;
-   - Resumir cada chunk e produzir um "contexto curto" para prompt.
 
 # Dependências
 - python3
